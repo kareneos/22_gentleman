@@ -4,7 +4,7 @@ a{
 img{
 	width: 100%;
 }
-button{
+button, input{
 	border: none;
 }
 .fgris{
@@ -16,10 +16,19 @@ button{
 .text-purple{
 	color: rgb(145, 146, 176);
 }
+.text-grisf{
+	color: #6C6475;
+}
 .bg-pink
 {
 	background-color: rgb(255, 0, 128);
 }
+.bg-white{
+	background-color: white;
+}
 .pd-2{
 	padding: 2%;
+}
+.pd-3{
+	padding: 3%;
 }

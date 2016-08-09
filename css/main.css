@@ -2,7 +2,23 @@
 li, .enlinea{
 	display: inline;
 }
+header a:hover{
+	color: #CE265B;
+}
+.bround{
+	border-radius: 20%;
+}
+/*SECTION*/
+#loadmore{
+	margin-left: 50%;
+}
 /*FOOTER*/
 .linebottom{
-	border-bottom: 1px solid #888;
+	border-bottom: 1px solid #AEACB6;
+}
+.linebottomslash{
+	border-bottom: 1px dashed #AEACB6;
+}
+input{
+	background-color: #1D1A20;
 }
