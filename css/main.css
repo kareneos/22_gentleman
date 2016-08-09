@@ -1,0 +1,8 @@
+/*HEADER*/
+li, .enlinea{
+	display: inline;
+}
+/*FOOTER*/
+.linebottom{
+	border-bottom: 1px solid #888;
+}

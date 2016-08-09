@@ -1,0 +1,25 @@
+a{
+	text-decoration: none;
+}
+img{
+	width: 100%;
+}
+button{
+	border: none;
+}
+.fgris{
+	background-color: rgb(37, 37, 37);
+}
+.text-pink{
+	color: rgb(255, 0, 128);
+}
+.text-purple{
+	color: rgb(145, 146, 176);
+}
+.bg-pink
+{
+	background-color: rgb(255, 0, 128);
+}
+.pd-2{
+	padding: 2%;
+}
