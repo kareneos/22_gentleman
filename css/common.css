@@ -1,6 +1,9 @@
 *{
 	font-family: 'Dosis', sans-serif;
 }
+.opensans{
+	font-family: 'Open Sans', sans-serif;
+}
 a{
 	text-decoration: none;
 }
@@ -27,11 +30,14 @@ button, input{
 	background-color: rgb(255, 0, 128);
 }
 .bg-white{
-	background-color: white;
+	background-color: #F5F7F8;
 }
 .pd-2{
 	padding: 2%;
 }
 .pd-3{
 	padding: 3%;
+}
+.mt-5{
+	margin-top: 5%;
 }
